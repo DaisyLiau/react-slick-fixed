@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "react-slick",
+        "raw": "react-slick-fixed",
         "scope": null,
-        "escapedName": "react-slick",
-        "name": "react-slick",
+        "escapedName": "react-slick-fixed",
+        "name": "react-slick-fixed",
         "rawSpec": "",
         "spec": "latest",
         "type": "tag"
